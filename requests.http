@@ -1,0 +1,9 @@
+### Third Party API Endpoint
+GET https://api.thecatapi.com/v1/breeds/search?q=sib
+# x-api-key: API KEY
+Authorization: API KEY
+
+### Rails App Breeds Index
+GET http://localhost:3000/breeds?search=sib
+
+
